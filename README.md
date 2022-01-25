@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm a Computer Engineer with experience in Internet of Things and Embedded Systems.
 
-Currently, I'm Master degree candidate at Unicamp Computer Institute, developing research in Internet of Things area (LoRa/LoRaWAN) and I work at INDT as Embedded Developer.
+Currently, I'm Master degree candidate at Unicamp Computer Institute, developing research in Internet of Things area (LoRa/LoRaWAN) and I work at INDT as Embedded System Developer.
 
 
 ## ✨ Areas of Interest
